@@ -9,7 +9,7 @@
   "author": "itai danielli",
   "license": "ISC",
   "dependencies": {
-    "async": "^2.6.0",
+    "async": "^2.6.4",
     "async-waterfall": "^0.1.5",
     "ejs": "^2.6.1",
     "express": "^4.16.3",
